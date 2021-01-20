@@ -11,7 +11,7 @@ Scooter's Revenge Coin is an implementation of the ERC-20 token standard with a 
 As stated above, Scooter's Revenge Coin is a basic implementation of the ERC-20 token standard with a few additional features.
   - Anti-Rugpull. This function serves to protect holders from getting massively dumped on by a whale.
   - Voting/Governance. This project was inspired my Andre Cronje of YFI fame. YFI started off as a "valueless governance token", so will this one. 
-  - Staking. This is getting added mainly so I can learn about the implementation of staking. At the end of the day, this project is being made simply so I can put it on my resume. 
+  - Staking. This is getting added mainly so I can learn about the implementation of staking. At the end of the day, this project is being made simply so I can put it on my resume. Note: Will use the SNX StakingRewards contract.
   
 # Roadmap 
 
