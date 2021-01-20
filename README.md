@@ -22,8 +22,7 @@ As stated above, Scooter's Revenge Coin is a basic implementation of the ERC-20 
 # Tokenomics 
 
 To begin, there will be 30,000 SCR tokens minted. 3,000 of these coins will be held for me and the fellas. The remaining 27,000 will be put into circulation
-within the Uniswap liquidity pool. People who purchase SCR and subsecuently stake it will be rewarded 1% of the amount they stake, leading to a small inflation of
-the supply over time. 
+within the Uniswap liquidity pool. People who purchase SCR and subsecuently stake it will be rewarded a percentage of the amount they stake, leading to a small inflation of the supply over time. 
 
 # Contributing 
 
