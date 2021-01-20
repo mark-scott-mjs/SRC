@@ -17,7 +17,7 @@ As stated above, Scooter's Revenge Coin is a basic implementation of the ERC-20 
 
 - Deploy the smart contract.
 - List it on Uniswap.
-- Getwebsite live so holders can stake their tokens without having to interact directly with the contract.
+- Get website live so holders can stake their tokens without having to interact directly with the contract.
 
 # Tokenomics 
 
